@@ -47,23 +47,23 @@
 
   1. Clone the repo
 
-   - git clone https://github.com/nikhilbn19/Inventory-Management-System-API.git
+       - git clone https://github.com/nikhilbn19/Inventory-Management-System-API.git
     
-   - cd Inventory_Management_System
+       - cd Inventory_Management_System
 
 
 2. Install dependencies
 
- - npm install
+     - npm install
 
 
 3. Run the server (default: http://localhost:4000)
 
- - npm run dev
+     - npm run dev
 
 4. Run tests
 
- - npm test
+     - npm test
 
 ## API Endpoints
 
